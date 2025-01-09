@@ -55,7 +55,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: cursive;
-    /* font-family: var(--f-page-text-primary); */
     scroll-behavior: smooth;
     background: var(--blue);
     background: radial-gradient(circle farthest-corner at center center, #0614a4 0%, #02083e 80%);
@@ -125,5 +124,4 @@ button {
     min-block-size: 100vh;
     min-block-size: 100dvh;
     margin-inline: auto;
-    /* border: 1px solid red; */
 }
